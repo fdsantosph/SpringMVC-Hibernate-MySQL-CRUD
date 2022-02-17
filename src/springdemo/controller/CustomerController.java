@@ -20,6 +20,7 @@ public class CustomerController {
 	
 	
 	// added comment to trace in github
+	// added 2nd comment to trace in github
 	
 	// need to inject the customer dao
         // now need to remove this code bec dao now injected in service layer
